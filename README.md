@@ -1,2 +1,8 @@
-# hello_world
-黄燕涛的第一个存储库
+#hello_world
+
+#include<iostream>
+using namespace std;
+int main(){
+   cout<<"hello world"<<endl;
+   return 0;
+}
